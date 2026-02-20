@@ -17,6 +17,6 @@ public class Integrate_Jenkins {
         System.out.println("Sum of " + a + " and " + b + " is: " + sum);
 
         System.out.println("CI Pipeline Execution Completed Successfully!");
-        System.out.println("New change committed to GitHub.");
+        System.out.println("AFTER UPDATEING:-New change committed to GitHub.");
     }
 }
